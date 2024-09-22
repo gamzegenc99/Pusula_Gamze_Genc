@@ -2,6 +2,7 @@
 
 **Gamze Genç**
 **Email:gamzegen99@gmail.com**
+**[Documentation](Documentation_side_effect_analysis/Analysis of Drug Side Effects.md)**
 
 ## 1. Introduction
 
