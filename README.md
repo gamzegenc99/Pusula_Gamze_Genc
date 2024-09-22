@@ -40,7 +40,7 @@ The dataset used in this project consists of an Excel file (side_effect_data.xls
 The dataset contains a total of 2357 rows and 19 columns.
 
 ### Variables
-- **Demographic Information:** Gender, Age, Height, Weight, Province, Nationality(Cinsiyet, Yaş, Boy, Kilo, İl, Uyruk)
+- **Demographic Information:** Gender, Height, Weight, Province, Nationality(Cinsiyet, Boy, Kilo, İl, Uyruk)
 - **Health History:** Allergies, Chronic Diseases, Chronic Diseases in the Family (Mother, Father, Siblings) -(Alerjiler, Kronik Hastalıklar, Ailede Kronik Hastalıklar (Anne, Baba, Kardeşler))
 - **Drug Information:** (İlaç Adı, İlaç Başlangıç Tarihi, İlaç Bitiş Tarihi)Drug Name, Drug Start Date, Drug End Date
 - **Side Effect Information:** Side Effect, Side Effect Report Date (Yan Etki, Yan Etki Bildirim Tarihi) 
@@ -50,7 +50,7 @@ The dataset contains a total of 2357 rows and 19 columns.
 
 ### Data Structure
 The dataset contains a mixture of numerical and categorical variables.
-- **Numeric Variables:** Height, Weight, Age
+- **Numeric Variables:** Height, Weight, Age(created) 
 - **Categorical Variables:** Gender, Province, Name of Medication, Side Effect, My Allergies, My Chronic Diseases, Family Chronic Diseases
 
 ### Visualizations
