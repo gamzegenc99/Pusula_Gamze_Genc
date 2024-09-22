@@ -1,8 +1,8 @@
 # Side Effect Analysis Project
 
-**Gamze Genç**
-**Email:gamzegen99@gmail.com**
-**[Documentation](Documentation_side_effect_analysis/Analysis of Drug Side Effects.md)**
+**Gamze Genç**  
+**Email:  gamzegen99@gmail.com**  
+**Check out the documentation for more details! [Documentation](Documentation_side_effect_analysis)**
 
 ## 1. Introduction
 
@@ -24,7 +24,7 @@ The main tasks include:
 - Numpy
 - Matplotlib
 - Scikit-learn
-- 
+  
 ### Problem Definition
 Medication side effects are a significant concern for patient health and safety. This project analyzes the dataset to identify factors that may influence medication side effects and to develop a machine learning model that can potentially be used to predict the risk of side effects.
 ### Questions
@@ -32,7 +32,7 @@ Medication side effects are a significant concern for patient health and safety.
 - How do patient demographics (gender, age, etc.) and health history (allergies, chronic diseases, etc.) affect the risk of side effects?
 - Is there a relationship between body mass index (BMI) and side effects?
 - Does the duration of medication use increase the likelihood of side effects?
-- 
+  
 ## 2. Introduction of Dataset
 The dataset used in this project consists of an Excel file (side_effect_data.xlsx) containing information about patients' medication use, personal information, and side effects they experience.
 
@@ -45,7 +45,7 @@ The dataset contains a total of 2357 rows and 19 columns.
 - **Drug Information:** (İlaç Adı, İlaç Başlangıç Tarihi, İlaç Bitiş Tarihi)Drug Name, Drug Start Date, Drug End Date
 - **Side Effect Information:** Side Effect, Side Effect Report Date (Yan Etki, Yan Etki Bildirim Tarihi) 
 - **Other:** Blood Group, User ID (Kan Grubu, Kullanıcı ID)
-- 
+  
 ## 3. Exploratory Data Analysis (EDA)
 
 ### Data Structure
